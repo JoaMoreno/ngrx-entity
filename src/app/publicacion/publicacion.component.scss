@@ -1,0 +1,29 @@
+.publicacion {
+    cursor: pointer;
+  background: rgb(223, 223, 223);
+  border-radius: 25px;
+  height: 150px;
+  margin: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .likes-number{
+ }
+  .likes {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    color: rgb(39, 39, 39);
+    font-size: 32px;
+    .text {
+      color: rgb(121, 121, 121);
+      margin-bottom: -25px;
+      font-size: 16px;
+    }
+  }
+}

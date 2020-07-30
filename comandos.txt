@@ -1,0 +1,4 @@
+ng add @ngrx/store
+ng add @ngrx/store-devtools
+ng add @ngrx/entity
+ng add @ngrx/schematics
